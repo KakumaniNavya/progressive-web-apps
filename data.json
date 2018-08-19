@@ -1,0 +1,50 @@
+{
+
+	"basics":
+	{
+		"name":"nani",
+		"role":"doctor",
+		" moblie":" 9951256681",
+		"email":"kakumaninavyacse@gmail.com"
+		},
+		"career":{
+			"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+		},
+		"education":[
+			{
+				"Degree":"btech(computer science &education)",
+				"Institute":"vignan nirula",
+				 "Data":["2016-20","85%"]
+			 },
+			 {
+				"Degree":"Intermeditate",
+				"Institute":"vignan ",
+				 "Data":["2014-16","93%"]
+			 },
+			 {
+				"Degree":"ssc",
+				"Institute":"vignan ",
+				 "Data":["2014","85%"]
+			 }
+	
+		   ],
+		  "skills":[
+              {
+              	"title":"programing Languages",
+              	"content":["python","c","java","R","c++"]
+              } ,
+              {
+              	"title":"Data Bases",
+              	"content":["Sql","oracle","mySql"]
+              } ,
+              {
+              	"title":"web Technologies",
+              	"content":["HTML","XML","javascript","css"]
+              },
+               {
+              	"title":"Operating system",
+              	"content":["windows","unix","linux"]
+              }
+		  ]
+		}
+
